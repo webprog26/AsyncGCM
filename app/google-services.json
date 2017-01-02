@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "1033522260426",
+    "project_id": "asyncproggcm"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033522260426:android:04ff298523d4414c",
+        "android_client_info": {
+          "package_name": "com.example.webprog26.asyncproggcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0bZZoI9rXWHVfMKzMsyF0A4zJq7n7VFo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
